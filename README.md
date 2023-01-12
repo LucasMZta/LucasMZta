@@ -2,9 +2,9 @@
 
 
 - 🎓 Graduado em Analise e Desenvolvimento de Sistemas, atuando como Analista de Sistemas
-- 💻 Estudando Desenvolvimento Full Stack pela <a href="https://b7web.com.br/">B7Web</a>
+- 💻 Estudando Desenvolvimento Full Stack pela <a href="https://b7web.com.br/" target="_blank">B7Web</a>
 - ⚡ Apaixonado por tecnologia e desenvolvimento e um café bem quentinho (☕️)
-- 🧐 Visite o meu site: <a href="https://lucasdevs.com/"> Lucas Devs </a>
+- 🧐 Visite o meu site: <a href="https://lucasdevs.com/" target="_blank"> Lucas Devs </a>
 
 #
 <a href="https://www.linkedin.com/in/lucas-martins-065008b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
