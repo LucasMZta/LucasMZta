@@ -1,5 +1,6 @@
 <div align="center"><h1> Olá! Sou Lucas Martins <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1></div>
 
+
 - 🎓 Graduado em Analise e Desenvolvimento de Sistemas, atuando como Analista de Sistemas
 - 💻 Estudando Desenvolvimento Full Stack pela <a href="https://b7web.com.br/">B7Web</a>
 - ⚡ Apaixonado por tecnologia e desenvolvimento e um café bem quentinho (☕️)
