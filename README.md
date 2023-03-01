@@ -1,7 +1,7 @@
 <h1> Olá! Sou Lucas Martins <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
 
-- 🎓 Graduado em Analise e Desenvolvimento de Sistemas, atuando como Analista de Sistemas
+- 🎓 Graduado em Analise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação e Projetos em Segurança de Sistemas de Informação. Atualmente atuando como Analista de Sistemas
 - 💻 Estudando Desenvolvimento Full Stack pela <a href="https://b7web.com.br/" target="_blank">B7Web</a>
 - ⚡ Apaixonado por tecnologia e desenvolvimento e um café bem quentinho (☕️)
 - 🧐 Visite o meu site: <a href="https://lucasdevs.com/" target="_blank"> Lucas Devs </a>
