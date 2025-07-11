@@ -4,7 +4,7 @@
 - 🎓 Graduado em Analise e Desenvolvimento de Sistemas, pós-graduado em Segurança da Informação e Projetos em Segurança de Sistemas de Informação. Atualmente atuando como Analista de Sistemas
 - 💻 Estudando Desenvolvimento Web Front-End pela <a href="https://b7web.com.br/" target="_blank">B7Web</a>
 - ⚡ Apaixonado por tecnologia, desenvolvimento e um café bem quentinho (☕️)
-- 🧐 Visite o meu site: <a href="https://lucasdevs.com/" target="_blank"> Lucas Devs </a>
+- 🧐 Visite o meu site: <a href="https://lucasmartins.dev/" target="_blank"> Lucas Devs </a>
 
 ## Redes Sociais
 <a href="https://www.linkedin.com/in/lucas-martins-065008b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
